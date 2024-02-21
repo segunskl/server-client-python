@@ -18,3 +18,5 @@
 * Update 2 file with v30 (f84d7d5302344f0a4ac369c501b122931ae7e79e)
     * schedule_item
     * interval_item
+* interval_item
+    * add 24 to VALID_INTERVALS = {0.25, 0.5, 1, 2, 4, 6, 8, 12, 24}
